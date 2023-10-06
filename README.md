@@ -10,7 +10,7 @@ Most of my dev'ing is around tooling and contributing to projects I use/like or 
  * Interests: Typ~~o~~esetting (LaTeX, ConTeXt, Typst, roff, Markdown), Automation, Software Verification, Taint Analysis & Code Review, Immutable OS, FIDO & Passkeys, Reverse Engineering, Learning & Teaching, Cryptography, ...
  * Names & Pronouns: lj (they/them, any), Janis (she) or Leo (he)
  * [My CLI Shell Usage Graph](https://api.atuin.sh/img/ljrk.png?token=8e4a976cb4ac7812b93be7558933afd998797583)
- * 
+
 My blog is over at https://www.blog.ljrk.org and the place where I cover my bad and worse ideas.
 
 I work at [int³](https://intcube.io) where I do various things but one of our goals is to build a platform to help businesses to do better IT security decisions, 
