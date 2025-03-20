@@ -4,10 +4,12 @@ Hi, I'm lj, a os/firmware dev, evolved teacher, become pentester and now fed up 
 
 Since GitHub is becoming more and more of a steaming pile of trash, you'll mostly find my [on Codeberg](https://codeberg.org/ljrk) or on my personal webspace [www.ljrk.org](https://www.ljrk.org/) (I do have a blog where I cover my bad and worse ideas) as well as socials (where I do the same but in a less long-winded fashion).
 
-Here you'll mostly find mirrors of stuff, either from my own code or code I downloaded somewhere and wanted to make more easily accessible. Otherwise this account is only used personally for the code audits and pentests I conduct for NGOs as part of [InSecurity Research Group](https://github.com/insrg) -- hit us up on [hello@insrg.org](mailto:hello@insrg.org)!
+Here you'll mostly find mirrors of stuff, either from my own code or code I downloaded somewhere and wanted to make more easily accessible. Outside of that I just use this account to contribute to tools/projects I use/like or stumble upon.
 
-Otherwise I sometimes commit to things for my dayjob at [int³](https://intcube.io) where I do various things.
-But one of our goals is to build a platform to help businesses do better IT security decisions, 
+I'm also a part of [InSecurity Research Group](https://github.com/insrg) where we conduct code audits and pentests for NGOs -- hit us up on [hello@insrg.org](mailto:hello@insrg.org)!
+
+For my dayjob at [int³](https://intcube.io) I work on various pieces of tooling, platform, whatever is currently needed.
+One of our goals is to build a platform to help businesses do better IT security decisions, 
 leveraging our extensive experience in that field.
 Yes, it's *just another platform*, yet single consultants *don't scale*, cost a lot and often don't do good either way, too.
 I wish I could tell you we've figured it out all the way though already, but that's far from the truth :D
