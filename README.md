@@ -1,21 +1,21 @@
 ### Leo/Janis aka lj
 
-Hi, I'm lj, a os/firmware dev, grown teacher, become pentester and now fed up with the consultancy world :-)
+Hi, I'm lj, a os/firmware dev, evolved teacher, become pentester and now fed up with the consultancy world, thus doing consulting >.<
 
 Most of my dev'ing is around tooling and contributing to projects I use/like or stumble upon.
 
  * Favorite editor: ~~vim, atom, neovim, kak, vi, vscode, vim, emacs~~ I gave up and use vi/vscode/emacs in rotation.
  * OS: fedora Silverblue and ArchLinux
- * Programming Languages: C (most skill), Rust (most awe), Haskell (most passion), Python (most hatred)
+ * Programming Languages: C (most skill), Rust (most awe), Haskell (most passion), Python (most hatred), POSIX Shell (most kink)
  * Interests: Typ~~o~~esetting (LaTeX, ConTeXt, Typst, roff, Markdown), Automation, Software Verification, Taint Analysis & Code Review, Immutable OS, FIDO & Passkeys, Reverse Engineering, Learning & Teaching, Cryptography, ...
- * Names & Pronouns: lj (they/them, any), Janis (she) or Leo (he)
- * [My CLI Shell Usage Graph](https://api.atuin.sh/img/ljrk.png?token=8e4a976cb4ac7812b93be7558933afd998797583)
+ * Names & Pronouns: lj/ElleJay (they/them, any), Janis (she) or Leo (he)
 
-My blog is over at https://www.blog.ljrk.org and the place where I cover my bad and worse ideas.
+My blog is over at https://www.ljrk.org/blog and the place where I cover my bad and worse ideas.
 
-I work at [int³](https://intcube.io) where I do various things but one of our goals is to build a platform to help businesses to do better IT security decisions, 
-leveraging our extensive in that field.
-Why a platform? Because single consultants *don't scale*, cost a lot and often don't do good anyway.
+I work at [int³](https://intcube.io) where I do various things but one of our goals is to build a platform to help businesses do better IT security decisions, 
+leveraging our extensive experience in that field.
+Yes, it's *just another platform*, yet single consultants *don't scale*, cost a lot and often don't do good either way, too.
+I wish I could tell you we've figured it out all the way though already, but that's far from the truth :D
 
 
 <!--
