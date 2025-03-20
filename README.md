@@ -12,7 +12,9 @@ Most of my dev'ing is around tooling and contributing to projects I use/like or 
 
 My blog is over at https://www.ljrk.org/blog and the place where I cover my bad and worse ideas.
 
-I work at [int³](https://intcube.io) where I do various things but one of our goals is to build a platform to help businesses do better IT security decisions, 
+My vocation lies in teaching and I spend a considerate amount of my personal time helping people understand security better, introducing them to hacking, or teaching coding. I also do penetration tests for NGOs with our [InSecurity Research Group](https://github.com/insrg), hit us up on [hello@insrg.org](mailto:hello@insrg.org)!
+
+As my dayjob I work at [int³](https://intcube.io) where I do various things but one of our goals is to build a platform to help businesses do better IT security decisions, 
 leveraging our extensive experience in that field.
 Yes, it's *just another platform*, yet single consultants *don't scale*, cost a lot and often don't do good either way, too.
 I wish I could tell you we've figured it out all the way though already, but that's far from the truth :D
