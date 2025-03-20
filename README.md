@@ -4,7 +4,16 @@ Hi, I'm lj, a os/firmware dev, evolved teacher, become pentester and now fed up 
 
 Since GitHub is becoming more and more of a steaming pile of trash, you'll mostly find my [on Codeberg](https://codeberg.org/ljrk) or on my personal webspace [www.ljrk.org](https://www.ljrk.org/) (I do have a blog where I cover my bad and worse ideas) as well as socials (where I do the same but in a less long-winded fashion).
 
-Here you'll mostly find mirrors of stuff, either from my own code or code I downloaded somewhere and wanted to make more easily accessible. Outside of that I just use this account to contribute to tools/projects I use/like or stumble upon.
+Here you'll mostly find archives and mirrors of stuff, either from my own code or code I downloaded somewhere and wanted to make more easily accessible. Outside of that I just use this account to contribute to tools/projects I use/like or stumble upon. Within the historical/archived/mirrored repos you find here, you'll see my work on
+
+ * reversed router firmwares such as my D-LINK DIR 88x,
+ * inofficial game ports for AntMe/SeriousEngine/Edna & Harvey: The Breakout,
+ * firmware flashing tools for Framework laptops or flashrom,
+ * setting the embedded controller of the fan for some Acer laptops,
+ * teachings on Computer Architecture and Programming Languages as well as InfoSec,
+ * my own studies including things in Bio-Informatics but also going back to my high school days in 2013,
+ * packaging for ArchLinux and Flatpaks,
+ * and a lot more :)
 
 I'm also a part of [InSecurity Research Group](https://github.com/insrg) where we conduct code audits and pentests for NGOs -- hit us up on [hello@insrg.org](mailto:hello@insrg.org)!
 
