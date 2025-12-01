@@ -1,4 +1,4 @@
-### Leo/Janis aka lj
+### ElleJay/lj
 
 Hi, I'm lj, a os/firmware dev, evolved teacher, become pentester and now fed up with the consultancy world, thus doing consulting >.<
 
